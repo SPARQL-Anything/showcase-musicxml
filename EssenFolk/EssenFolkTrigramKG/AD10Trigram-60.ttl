@@ -1,0 +1,104 @@
+@prefix ex:  <http://example.org/> .
+@prefix fx:  <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xyz: <http://sparql.xyz/facade-x/data/> .
+
+ex:13   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:19   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:6    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "E" ;
+        rdf:_3    "E" .
+
+ex:12   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "C" ;
+        rdf:_3    "B" .
+
+ex:18   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:5    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:11   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "Rest" .
+
+ex:17   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "B" ;
+        rdf:_3    "E" .
+
+ex:20   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "E" ;
+        rdf:_3    "B" .
+
+ex:4    rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "E" ;
+        rdf:_3    "B" .
+
+ex:10   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "C" ;
+        rdf:_3    "B" .
+
+ex:16   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "E" .
+
+ex:3    rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "E" ;
+        rdf:_3    "C" .
+
+ex:9    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "C" .
+
+ex:15   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:2    rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "C" ;
+        rdf:_3    "B" .
+
+ex:8    rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:14   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "E" ;
+        rdf:_3    "E" .
+
+ex:1    rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:7    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "C" .

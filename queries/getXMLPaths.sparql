@@ -1,0 +1,14 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+# Query to extract the music xml files from the local directory.
+SELECT ?filePath
+WHERE 
+{
+  SERVICE<x-sparql-anything:>{
+  	fx:properties fx:location "C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10".               
+    	
+	[] a fx:root;
+       	   ?mProp ?filePath.
+    
+    FILTER(CONTAINS(?filePath, "musicxml"))
+  }
+}

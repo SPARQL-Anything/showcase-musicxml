@@ -1,0 +1,339 @@
+@prefix ex:  <http://example.org/> .
+@prefix fx:  <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xyz: <http://sparql.xyz/facade-x/data/> .
+
+ex:61   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:33   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "B" ;
+        rdf:_3    "G" .
+
+ex:46   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "F" ;
+        rdf:_3    "G" .
+
+ex:18   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "B" ;
+        rdf:_3    "A" .
+
+ex:59   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "D" ;
+        rdf:_3    "C" .
+
+ex:40   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:12   rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "E" .
+
+ex:53   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "D" ;
+        rdf:_3    "D" .
+
+ex:4    rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "F" ;
+        rdf:_3    "G" .
+
+ex:25   rdf:type  rdf:Seq ;
+        rdf:_1    "Rest" ;
+        rdf:_2    "B" ;
+        rdf:_3    "A" .
+
+ex:66   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "A" ;
+        rdf:_3    "F" .
+
+ex:38   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "F" ;
+        rdf:_3    "Rest" .
+
+ex:60   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "D" ;
+        rdf:_3    "Rest" .
+
+ex:32   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "G" ;
+        rdf:_3    "D" .
+
+ex:45   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "G" ;
+        rdf:_3    "Rest" .
+
+ex:17   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "A" .
+
+ex:58   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "F" ;
+        rdf:_3    "G" .
+
+ex:9    rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "B" ;
+        rdf:_3    "A" .
+
+ex:11   rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "G" ;
+        rdf:_3    "B" .
+
+ex:52   rdf:type  rdf:Seq ;
+        rdf:_1    "Rest" ;
+        rdf:_2    "B" ;
+        rdf:_3    "A" .
+
+ex:3    rdf:type  rdf:Seq ;
+        rdf:_1    "Rest" ;
+        rdf:_2    "E" ;
+        rdf:_3    "F" .
+
+ex:24   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "A" ;
+        rdf:_3    "B" .
+
+ex:65   rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "E" ;
+        rdf:_3    "D" .
+
+ex:37   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "B" .
+
+ex:31   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "D" ;
+        rdf:_3    "Rest" .
+
+ex:44   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "D" ;
+        rdf:_3    "C" .
+
+ex:16   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "G" ;
+        rdf:_3    "F" .
+
+ex:57   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "D" ;
+        rdf:_3    "B" .
+
+ex:8    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "A" ;
+        rdf:_3    "G" .
+
+ex:29   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "A" ;
+        rdf:_3    "F" .
+
+ex:10   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "A" ;
+        rdf:_3    "B" .
+
+ex:51   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "G" ;
+        rdf:_3    "A" .
+
+ex:2    rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "D" ;
+        rdf:_3    "C" .
+
+ex:23   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "A" ;
+        rdf:_3    "G" .
+
+ex:64   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:36   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "A" ;
+        rdf:_3    "D" .
+
+ex:49   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "F" ;
+        rdf:_3    "E" .
+
+ex:30   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "A" ;
+        rdf:_3    "D" .
+
+ex:43   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "D" .
+
+ex:15   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "C" ;
+        rdf:_3    "D" .
+
+ex:56   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:7    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "D" .
+
+ex:28   rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "G" ;
+        rdf:_3    "A" .
+
+ex:50   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "D" ;
+        rdf:_3    "D" .
+
+ex:1    rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "G" .
+
+ex:22   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "G" .
+
+ex:63   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "C" ;
+        rdf:_3    "B" .
+
+ex:35   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "B" ;
+        rdf:_3    "G" .
+
+ex:48   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "B" ;
+        rdf:_3    "G" .
+
+ex:42   rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "G" ;
+        rdf:_3    "G" .
+
+ex:14   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "A" ;
+        rdf:_3    "G" .
+
+ex:55   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "C" ;
+        rdf:_3    "B" .
+
+ex:6    rdf:type  rdf:Seq ;
+        rdf:_1    "Rest" ;
+        rdf:_2    "G" ;
+        rdf:_3    "A" .
+
+ex:27   rdf:type  rdf:Seq ;
+        rdf:_1    "Rest" ;
+        rdf:_2    "E" ;
+        rdf:_3    "D" .
+
+ex:21   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "D" ;
+        rdf:_3    "E" .
+
+ex:62   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "B" .
+
+ex:34   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "A" .
+
+ex:47   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "E" .
+
+ex:19   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "Rest" ;
+        rdf:_3    "Rest" .
+
+ex:41   rdf:type  rdf:Seq ;
+        rdf:_1    "D" ;
+        rdf:_2    "E" ;
+        rdf:_3    "F" .
+
+ex:13   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "D" ;
+        rdf:_3    "B" .
+
+ex:54   rdf:type  rdf:Seq ;
+        rdf:_1    "G" ;
+        rdf:_2    "G" ;
+        rdf:_3    "B" .
+
+ex:5    rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "G" ;
+        rdf:_3    "D" .
+
+ex:26   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "G" ;
+        rdf:_3    "Rest" .
+
+ex:67   rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "G" ;
+        rdf:_3    "Rest" .
+
+ex:39   rdf:type  rdf:Seq ;
+        rdf:_1    "Rest" ;
+        rdf:_2    "G" ;
+        rdf:_3    "G" .
+
+ex:20   rdf:type  rdf:Seq ;
+        rdf:_1    "E" ;
+        rdf:_2    "D" ;
+        rdf:_3    "Rest" .

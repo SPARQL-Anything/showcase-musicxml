@@ -1,0 +1,1573 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="filePath"/>
+  </head>
+  <results>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-151.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-143.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-185.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-302.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-064.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-115.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-141.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-285.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-066.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-029.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-021.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-310.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-106.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-261.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-166.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-089.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-010.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-205.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-146.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-213.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-264.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-015.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-126.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-074.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-091.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-279.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-159.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-292.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-186.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-161.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-293.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-060.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-301.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-277.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-140.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-208.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-313.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-244.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-158.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-093.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-101.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-001.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-303.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-067.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-295.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-007.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-111.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-040.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-246.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-252.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-152.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-182.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-286.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-149.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-224.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-243.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-168.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-127.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-088.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-195.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-204.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-046.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-045.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-211.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-034.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-073.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-240.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-234.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-163.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-038.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-157.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-138.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-069.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-160.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-203.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-035.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-112.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-307.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-108.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-044.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-175.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-294.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-274.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-119.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-305.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-238.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-092.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-087.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-276.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-076.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-225.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-281.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-181.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-197.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-124.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-236.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-052.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-209.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-061.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-273.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-048.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-259.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-228.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-107.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-054.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-248.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-022.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-139.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-134.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-012.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-098.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-268.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-283.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-121.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-298.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-231.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-032.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-135.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-118.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-216.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-137.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-055.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-104.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-210.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-308.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-030.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-164.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-233.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-235.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-125.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-102.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-147.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-033.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-068.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-170.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-075.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-131.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-198.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-218.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-221.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-190.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-018.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-272.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-133.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-090.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-120.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-017.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-080.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-105.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-230.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-153.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-200.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-039.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-094.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-056.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-178.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-144.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-245.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-187.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-173.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-300.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-299.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-297.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-287.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-257.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-199.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-059.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-162.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-019.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-312.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-278.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-109.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-288.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-024.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-082.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-057.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-123.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-256.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-063.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-004.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-062.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-077.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-026.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-191.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-237.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-083.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-049.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-145.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-275.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-142.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-043.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-280.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-023.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-254.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-255.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-219.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-215.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-028.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-084.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-031.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-095.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-071.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-263.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-232.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-247.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-148.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-194.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-306.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-217.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-136.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-291.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-103.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-117.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-065.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-003.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-270.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-311.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-290.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-250.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-227.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-128.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-114.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-097.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-223.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-266.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-212.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-169.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-129.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-179.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-258.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-201.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-269.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-113.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-025.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-196.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-096.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-296.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-267.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-150.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-037.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-053.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-005.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-011.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-041.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-050.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-289.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-284.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-202.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-165.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-036.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-177.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-220.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-002.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-193.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-172.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-265.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-180.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-206.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-086.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-047.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-008.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-249.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-027.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-222.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-130.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-251.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-271.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-122.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-171.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-006.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-099.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-260.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-079.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-192.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-058.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-020.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-176.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-081.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-132.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-229.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-014.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-183.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-167.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-253.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-207.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-085.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-013.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-051.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-174.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-070.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-078.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-156.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-155.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-154.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-241.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-262.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-009.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-100.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-110.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-116.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-226.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-189.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-188.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-242.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-282.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-072.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-309.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-214.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-239.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-016.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-184.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-304.musicxml</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/Altdeu10/AltDeu-042.musicxml</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

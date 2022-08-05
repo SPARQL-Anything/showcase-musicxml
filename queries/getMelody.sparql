@@ -1,0 +1,59 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+# Melody Extraction Query.
+SELECT ?step ?octave ?type ?duration ?noteCount ?measureCount ?partCount ?voice
+WHERE
+{
+    SERVICE<x-sparql-anything:>{
+        fx:properties fx:location "C:/Users/Marco/Desktop/showcase-musicology/musicXMLFiles/bwv153.1.musicxml";
+                      fx:media-type "application/xml".  
+        ?score a fx:root.
+        ?score ?mProperty ?part. 
+        #?part xyz:id "anID" could be specified here if only a single part is to be extracted.
+        #Abstracts the measures:
+        ?part ?mPropPart ?measure.
+        #Abstracts the notes from each measure:
+        ?measure ?mPropMeas ?note.
+        ?note a xyz:note.
+        {   #Abstracts the pitch from the note element:
+            ?note ?mPropNote ?pitch.
+            ?pitch a xyz:pitch.
+            #Abstracts the pitch's step:
+            ?pitch ?mPropPitch1 ?stepElmnt.
+            ?stepElmnt a xyz:step.
+            ?stepElmnt rdf:_1 ?step.
+            #Abstracts the corresponding octave:
+            ?pitch ?mPropPitch2 ?octaveElmnt.
+            ?octaveElmnt a xyz:octave.
+            ?octaveElmnt rdf:_1 ?octave.
+	}
+        UNION
+    	{#Abstracts the rest if present instead:
+            ?note ?mPropNote ?restElmnt.
+            ?restElmnt a xyz:rest.
+            BIND(IF(BOUND(?restElmnt), "Rest", "") AS ?step)
+        }
+        #Abstracts the corresponding type:
+        ?note ?mPropNote1 ?typeElmnt.
+        ?typeElmnt a xyz:type.
+        ?typeElmnt rdf:_1 ?type.
+        #Abstracts the corresponding duration:
+        ?note ?mPropNote2 ?durationElmnt.
+        ?durationElmnt a xyz:duration.
+        ?durationElmnt rdf:_1 ?duration.
+    }
+  # Generates measure and note position counters using fx:cardinal:
+  # Instead of BIND ( xsd:int(REPLACE( STR(?mPropPart), STR(rdf:_), "") ) AS ?measureCount ),
+  BIND(fx:cardinal(?mPropPart) AS ?measureCount)
+  # Alternative to use the measure attributes to define the order of the resulting table.
+  # BIND(xsd:int(?measureNumber) AS ?measureIndex)
+  # BIND( IF(bound(?measureIndex), xsd:int(?measureNumber), 4.1) AS ?measureCount)
+  # Instead of BIND ( xsd:int(REPLACE( STR(?mPropMeas), STR(rdf:_), "") ) AS ?noteCount ),
+  BIND(fx:cardinal(?mPropMeas) AS ?noteCount)
+  # Instead of BIND( xsd:int(REPLACE( STR(?mProperty), STR(rdf:_), "") ) AS ?partCount ),
+  BIND(fx:cardinal(?mProperty) AS ?partCount)
+  # Assigns the voice labels to the part nubers once these are known:
+  BIND(IF(?partCount = 8, "Soprano", IF(?partCount = 9, "Alto", IF(?partCount = 10, "Tenor", "Bass")) ) AS ?voice)
+} 
+ORDER BY ?partCount ?measureCount ?noteCount

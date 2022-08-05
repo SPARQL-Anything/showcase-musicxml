@@ -1,0 +1,28 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+# This query proceeds to analyse the 3-gram knowledge graph in terms of frequencies and probabilities.
+SELECT ?trigram  ?frequency ((?frequency / ?total) AS ?probability) 
+WHERE
+{
+	{# Subquery 1, abstracts the trigrams and their frequency
+		SELECT  ?trigram (COUNT(?trigram) AS ?frequency) 
+		WHERE
+		{  
+    		GRAPH ?g {?s a rdf:Seq;
+       		?mProp1 ?note1;
+       		?mProp2 ?note2;
+       		?mProp3 ?note3.}
+    		FILTER(fx:previous(?mProp2) = ?mProp1 && fx:previous(?mProp3) = ?mProp2)
+  		BIND(CONCAT(?note1, "-", ?note2, "-", ?note3) AS ?trigram)
+		}
+		GROUP BY ?trigram
+	}
+  	{#Subquery 2, counts the total number of resources in the queried graphs to produce the probability denominator.
+    	SELECT  (COUNT(?r) AS ?total)
+		WHERE
+		{
+      		GRAPH ?g1 {?r a rdf:Seq.}
+		}
+
+  	}
+}

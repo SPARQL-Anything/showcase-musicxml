@@ -1,0 +1,69 @@
+@prefix ex:  <http://example.org/> .
+@prefix fx:  <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xyz: <http://sparql.xyz/facade-x/data/> .
+
+ex:1    rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "F" ;
+        rdf:_3    "F" .
+
+ex:6    rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "C" ;
+        rdf:_3    "C" .
+
+ex:10   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:4    rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "A" ;
+        rdf:_3    "G" .
+
+ex:9    rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "C" ;
+        rdf:_3    "C" .
+
+ex:13   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "C" ;
+        rdf:_3    "B" .
+
+ex:2    rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "F" ;
+        rdf:_3    "F" .
+
+ex:7    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "C" ;
+        rdf:_3    "A" .
+
+ex:11   rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "C" .
+
+ex:5    rdf:type  rdf:Seq ;
+        rdf:_1    "A" ;
+        rdf:_2    "G" ;
+        rdf:_3    "F" .
+
+ex:3    rdf:type  rdf:Seq ;
+        rdf:_1    "F" ;
+        rdf:_2    "F" ;
+        rdf:_3    "C" .
+
+ex:8    rdf:type  rdf:Seq ;
+        rdf:_1    "B" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .
+
+ex:12   rdf:type  rdf:Seq ;
+        rdf:_1    "C" ;
+        rdf:_2    "B" ;
+        rdf:_3    "B" .

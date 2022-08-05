@@ -1,0 +1,48 @@
+PREFIX fx: <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?step ?octave ?type ?duration ?noteCount ?measureCount ?partCount
+WHERE
+{
+        BIND (IRI(CONCAT("x-sparql-anything:media-type=application/xml,location=", ?_filePath)) AS ?fx)
+  	SERVICE ?fx { 	
+        ?score a fx:root.
+        ?score ?mProperty ?part.  
+        #Abstracts the measures:
+        ?part ?mPropPart ?measure.
+        #Abstracts the notes from each measure:
+        ?measure ?mPropMeas ?note.
+        ?note a xyz:note.
+        {   #Abstracts the pitch from the note element:
+            ?note ?mPropNote ?pitch.
+            ?pitch a xyz:pitch.
+            #Abstracts the pitch's step:
+            ?pitch ?mPropPitch1 ?stepElmnt.
+            ?stepElmnt a xyz:step.
+            ?stepElmnt rdf:_1 ?step.
+            #Abstracts the corresponding octave:
+            ?pitch ?mPropPitch2 ?octaveElmnt.
+            ?octaveElmnt a xyz:octave.
+            ?octaveElmnt rdf:_1 ?octave.
+	}
+        UNION
+    	{#Abstracts the rest if present instead:
+            ?note ?mPropNote ?restElmnt.
+            ?restElmnt a xyz:rest.
+            BIND(IF(BOUND(?restElmnt), "Rest", "") AS ?step)
+        }
+        #Abstracts the corresponding type:
+        ?note ?mPropNote1 ?typeElmnt.
+        ?typeElmnt a xyz:type.
+        ?typeElmnt rdf:_1 ?type.
+        #Abstracts the corresponding duration:
+        ?note ?mPropNote2 ?durationElmnt.
+        ?durationElmnt a xyz:duration.
+        ?durationElmnt rdf:_1 ?duration.
+    }
+  # Generates measure and note position counters:
+  BIND(fx:cardinal(?mPropPart) AS ?measureCount)
+  BIND(fx:cardinal(?mPropMeas) AS ?noteCount)
+  BIND(fx:cardinal(?mProperty) AS ?partCount)
+}
+ORDER BY ?partCount ?measureCount ?noteCount
