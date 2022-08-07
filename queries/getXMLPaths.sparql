@@ -4,7 +4,7 @@ SELECT ?filePath
 WHERE 
 {
   SERVICE<x-sparql-anything:>{
-  	fx:properties fx:location "./musicXMLFiles/Altdeu10".               
+  	fx:properties fx:location "./musicXMLFiles/AltDeu10".               
     	
 	[] a fx:root;
        	   ?mProp ?filePath.

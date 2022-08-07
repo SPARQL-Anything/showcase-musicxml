@@ -14,15 +14,11 @@ WHERE
 {	
     BIND (IRI(CONCAT("x-sparql-anything:media-type=text/csv,location=", ?_filePath)) AS ?fx)
     SERVICE ?fx {
-        #step,octave,type,duration,noteCount,measureCount,partCount
-        #G,4,quarter,10080,2,1,6
-        #B,-1,quarter,10080,1,2,6
-        #B,4,quarter,10080,2,2,6
         fx:properties fx:csv.headers true. 
     [] a fx:root;
-       ?mProp [ xyz:step ?note ] ;
-       ?mProp1 [ xyz:step ?note1 ] ;
-       ?mProp2 [ xyz:step ?note2 ] ;
+       ?mProp [ xyz:pitch ?note ] ;
+       ?mProp1 [ xyz:pitch ?note1 ] ;
+       ?mProp2 [ xyz:pitch ?note2 ] ;
        FILTER ( fx:previous(?mProp1) = 
        	  ?mProp && fx:previous(?mProp2) = ?mProp1)
     }
