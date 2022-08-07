@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/521574081.svg)](https://zenodo.org/badge/latestdoi/521574081)
+
 # Showcase MusicXML
 
 ## Get list of XML files
