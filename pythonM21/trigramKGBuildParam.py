@@ -65,7 +65,7 @@ for filename in os.scandir(directory):
 path1 = 'C:/Users/Marco/Desktop/showcase-musicology/pythonM21/EssenFolkPy/EssenFolkTrigramKGPy'
 os.mkdir(path1)
 # Parametrises the output path:
-fpOut = path1 + '/AD10TrigramPy-{index}.csv'
+fpOut = path1 + '/AD10TrigramPy-{index}.ttl'
 n = 1
 # Constructs the KGs:
 for path in filePaths:
