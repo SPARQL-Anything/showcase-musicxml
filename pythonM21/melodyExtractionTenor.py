@@ -44,6 +44,7 @@ for measure in measures:
             octave = ''
             pitch = step
             _type = event.duration.type
+            duration = event.duration.quarterLength
             measure = event.measureNumber
             data = [step, acc, octave, pitch, _type, duration, measure, tenor.id]
         writer.writerow(data)

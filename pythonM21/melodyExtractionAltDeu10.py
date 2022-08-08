@@ -1,6 +1,8 @@
 # Melody/Part extraction with Music21.
-# Extracts the four parts of Bach's bwv 153.1 chorale and
-# saves the results into a CSV file.
+# Extracts the melodies of a folk song in the AltDeu10
+# book from the Essen Folk Collection available in the
+# Music21 corpus, after each file is converted to MusicXML first.
+# Saves the results into a CSV file.
 #
 # @author Marco Ratta
 # @version 07/08/2022
@@ -44,6 +46,7 @@ for part in parts:
                 octave = ''
                 pitch = step
                 _type = event.duration.type
+                duration = event.duration.quarterLength
                 measure = event.measureNumber
                 data = [step, acc, octave, pitch, _type, duration, measure, part.id]
             writer.writerow(data) # Writes the data to the CSV.

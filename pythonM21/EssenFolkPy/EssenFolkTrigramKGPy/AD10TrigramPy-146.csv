@@ -1,0 +1,155 @@
+@prefix ex:  <http://example.org/> .
+@prefix fx:  <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xyz: <http://sparql.xyz/facade-x/data/> .
+
+ex:1   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "B[-1]4" . 
+
+ex:2   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "B[-1]4" ;
+       rdf:_3     "A4" . 
+
+ex:3   rdf:type   rdf:Seq ;
+       rdf:_1     "B[-1]4" ;
+       rdf:_2     "A4" ;
+       rdf:_3     "G4" . 
+
+ex:4   rdf:type   rdf:Seq ;
+       rdf:_1     "A4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "A4" . 
+
+ex:5   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "A4" ;
+       rdf:_3     "B[-1]4" . 
+
+ex:6   rdf:type   rdf:Seq ;
+       rdf:_1     "A4" ;
+       rdf:_2     "B[-1]4" ;
+       rdf:_3     "C5" . 
+
+ex:7   rdf:type   rdf:Seq ;
+       rdf:_1     "B[-1]4" ;
+       rdf:_2     "C5" ;
+       rdf:_3     "D5" . 
+
+ex:8   rdf:type   rdf:Seq ;
+       rdf:_1     "C5" ;
+       rdf:_2     "D5" ;
+       rdf:_3     "D5" . 
+
+ex:9   rdf:type   rdf:Seq ;
+       rdf:_1     "D5" ;
+       rdf:_2     "D5" ;
+       rdf:_3     "C5" . 
+
+ex:10   rdf:type   rdf:Seq ;
+       rdf:_1     "D5" ;
+       rdf:_2     "C5" ;
+       rdf:_3     "A4" . 
+
+ex:11   rdf:type   rdf:Seq ;
+       rdf:_1     "C5" ;
+       rdf:_2     "A4" ;
+       rdf:_3     "B[-1]4" . 
+
+ex:12   rdf:type   rdf:Seq ;
+       rdf:_1     "A4" ;
+       rdf:_2     "B[-1]4" ;
+       rdf:_3     "G4" . 
+
+ex:13   rdf:type   rdf:Seq ;
+       rdf:_1     "B[-1]4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "F4" . 
+
+ex:14   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "F4" ;
+       rdf:_3     "rest" . 
+
+ex:15   rdf:type   rdf:Seq ;
+       rdf:_1     "F4" ;
+       rdf:_2     "rest" ;
+       rdf:_3     "F4" . 
+
+ex:16   rdf:type   rdf:Seq ;
+       rdf:_1     "rest" ;
+       rdf:_2     "F4" ;
+       rdf:_3     "A4" . 
+
+ex:17   rdf:type   rdf:Seq ;
+       rdf:_1     "F4" ;
+       rdf:_2     "A4" ;
+       rdf:_3     "B[-1]4" . 
+
+ex:18   rdf:type   rdf:Seq ;
+       rdf:_1     "A4" ;
+       rdf:_2     "B[-1]4" ;
+       rdf:_3     "C5" . 
+
+ex:19   rdf:type   rdf:Seq ;
+       rdf:_1     "B[-1]4" ;
+       rdf:_2     "C5" ;
+       rdf:_3     "B[-1]4" . 
+
+ex:20   rdf:type   rdf:Seq ;
+       rdf:_1     "C5" ;
+       rdf:_2     "B[-1]4" ;
+       rdf:_3     "G4" . 
+
+ex:21   rdf:type   rdf:Seq ;
+       rdf:_1     "B[-1]4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "A4" . 
+
+ex:22   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "A4" ;
+       rdf:_3     "B[-1]4" . 
+
+ex:23   rdf:type   rdf:Seq ;
+       rdf:_1     "A4" ;
+       rdf:_2     "B[-1]4" ;
+       rdf:_3     "A4" . 
+
+ex:24   rdf:type   rdf:Seq ;
+       rdf:_1     "B[-1]4" ;
+       rdf:_2     "A4" ;
+       rdf:_3     "G4" . 
+
+ex:25   rdf:type   rdf:Seq ;
+       rdf:_1     "A4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "F4" . 
+
+ex:26   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "F4" ;
+       rdf:_3     "D4" . 
+
+ex:27   rdf:type   rdf:Seq ;
+       rdf:_1     "F4" ;
+       rdf:_2     "D4" ;
+       rdf:_3     "G4" . 
+
+ex:28   rdf:type   rdf:Seq ;
+       rdf:_1     "D4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "F[1]4" . 
+
+ex:29   rdf:type   rdf:Seq ;
+       rdf:_1     "G4" ;
+       rdf:_2     "F[1]4" ;
+       rdf:_3     "G4" . 
+
+ex:30   rdf:type   rdf:Seq ;
+       rdf:_1     "F[1]4" ;
+       rdf:_2     "G4" ;
+       rdf:_3     "rest" . 
+

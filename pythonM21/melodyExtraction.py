@@ -44,6 +44,7 @@ for part in parts:
                 octave = ''
                 pitch = step
                 _type = event.duration.type
+                duration = event.duration.quarterLength
                 measure = event.measureNumber
                 data = [step, acc, octave, pitch, _type, duration, measure, part.id]
             writer.writerow(data)
