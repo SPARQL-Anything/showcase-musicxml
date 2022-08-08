@@ -46,7 +46,7 @@ for part in parts:
                 _type = event.duration.type
                 measure = event.measureNumber
                 data = [step, acc, octave, pitch, _type, duration, measure, part.id]
-            writer.writerow(data)
+            writer.writerow(data) # Writes the data to the CSV.
             print(data)
             
 # Closes the file:
