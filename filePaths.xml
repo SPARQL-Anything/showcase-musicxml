@@ -575,14 +575,6 @@
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/</literal>
-      </binding>
-      <binding name="fileName">
-        <literal></literal>
-      </binding>
-    </result>
-    <result>
-      <binding name="filePath">
         <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-286.musicxml</literal>
       </binding>
       <binding name="fileName">
