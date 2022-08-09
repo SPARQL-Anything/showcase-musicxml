@@ -10,7 +10,7 @@ WHERE
 	[] a fx:root;
        	   ?mProp ?filePath.
     
-    FILTER(CONTAINS(?filePath, "musicxml")) .
+    FILTER(CONTAINS(?filePath, ".musicxml")) .
 	BIND ( replace( replace ( ?filePath, ".*?\\/","" ), ".musicxml","") as ?fileName) .
   }
 }
