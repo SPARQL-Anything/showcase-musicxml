@@ -5,11 +5,17 @@
 ## Get list of XML files
 
 ```
-java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getXMLPaths.sparql
+java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getXMLPaths.sparql -o filePaths.xml -f XML
 ```
 
 ## Get list of CSV files
 
 ```
 java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getCSVPaths.sparql
+```
+
+## Generate melodies
+
+```
+java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getMelodyParam.sparql -i filePaths.xml -o "EssenFolk/?fileName.csv" -f CSV
 ```
