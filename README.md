@@ -17,5 +17,5 @@ java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getCSVPaths.sparql
 ## Generate melodies
 
 ```
-java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getMelodyParam.sparql -i filePaths.xml -o "EssenFolk/?fileName.csv" -f CSV
+java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getMelodyParam.sparql -i filePaths.xml -p "EssenFolk/?fileName.csv" -f CSV
 ```
