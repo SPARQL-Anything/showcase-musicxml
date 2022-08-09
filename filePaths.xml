@@ -2,1571 +2,2519 @@
 <sparql xmlns="http://www.w3.org/2005/sparql-results#">
   <head>
     <variable name="filePath"/>
+    <variable name="fileName"/>
   </head>
   <results>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-290.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-175.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-175</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="filePath">
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-022.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-022</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-264.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-103.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-103</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-164.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-163.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-163</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-079.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-012.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-012</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-089.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-152.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-152</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-219.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-245.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-245</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-161.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-277.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-277</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-006.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-237.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-237</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-045.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-205.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-205</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-210.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-010.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-010</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-187.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-003.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-003</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-114.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-255.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-255</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-303.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-007.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-007</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-220.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-202.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-202</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-295.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-002.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-002</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-192.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-090.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-090</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-285.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-195.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-195</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-058.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-053.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-053</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-240.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-283.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-283</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-069.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-062.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-062</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-211.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-126.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-126</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-239.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-018.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-018</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-158.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-017.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-017</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-103.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-111.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-111</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-096.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-280.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-280</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-134.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-177.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-177</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-003.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-250.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-250</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-194.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-302.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-302</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-101.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-213.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-213</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-276.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-117.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-117</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-140.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-077.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-077</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-145.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-172.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-172</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-238.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-223.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-223</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-197.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-141.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-141</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-062.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-269.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-269</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-183.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-048.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-048</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-248.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-290.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-290</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-077.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-310.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-310</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-129.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-312.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-312</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-274.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-085.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-085</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-063.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-222.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-222</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-135.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-219.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-219</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-217.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-008.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-008</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-131.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-058.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-058</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-013.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-134.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-134</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-242.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-238.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-238</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-064.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-116.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-116</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-189.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-266.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-266</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-053.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-020.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-020</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-133.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-047.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-047</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-215.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-196.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-196</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-241.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-220.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-220</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-011.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-059.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-059</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-188.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-135.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-135</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-176.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-070.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-070</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-179.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-044.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-044</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-152.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-210.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-210</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-037.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-060.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-060</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-020.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-096.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-096</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-190.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-265.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-265</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-159.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-198.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-198</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-230.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-284.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-284</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-124.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-119.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-119</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-039.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-224.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-224</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-271.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-039.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-039</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-278.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-296.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-296</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-234.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-035.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-035</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-289.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-214.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-214</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-032.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-033.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-033</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-104.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-112.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-112</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-173.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/</literal>
+      </binding>
+      <binding name="fileName">
+        <literal></literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-014.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-286.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-286</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-249.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-107.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-107</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-167.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-137.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-137</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-042.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-227.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-227</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-067.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-289.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-289</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-262.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-104.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-104</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-269.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-146.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-146</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-122.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-128.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-128</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-036.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-262.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-262</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-243.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-157.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-157</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-102.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-067.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-067</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-143.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-099.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-099</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-033.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-264.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-264</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-199.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-026.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-026</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-148.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-217.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-217</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-253.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-133.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-133</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-216.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-181.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-181</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-307.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-162.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-162</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-151.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-233.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-233</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-080.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-028.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-028</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-163.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-031.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-031</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-207.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-232.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-232</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-052.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-164.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-164</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-191.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-040.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-040</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-094.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-029.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-029</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-012.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-087.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-087</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-088.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-011.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-011</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-015.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-251.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-251</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-117.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-110.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-110</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-282.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-311.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-311</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-071.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-102.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-102</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-092.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-076.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-076</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-301.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-184.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-184</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-292.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-072.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-072</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-205.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-123.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-123</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-105.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-109.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-109</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-091.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-032.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-032</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-028.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-282.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-282</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-090.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-036.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-036</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-084.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-065.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-065</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-160.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-150.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-150</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-024.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-078.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-078</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-127.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-188.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-188</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-298.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-147.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-147</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-180.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-063.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-063</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-203.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-298.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-298</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-166.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-193.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-193</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-287.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-293.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-293</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-136.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-069.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-069</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-008.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-136.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-136</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-001.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-235.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-235</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-154.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-297.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-297</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-076.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-234.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-234</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-093.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-183.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-183</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-061.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-075.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-075</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-177.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-292.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-292</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-231.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-158.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-158</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-021.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-021.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-021</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-087.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-271.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-271</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-044.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-122.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-122</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-265.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-041.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-041</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-156.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-120.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-120</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-074.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-140.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-140</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-085.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-161.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-161</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-313.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-086.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-086</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-245.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-168.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-168</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-142.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-055.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-055</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-073.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-068.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-068</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-181.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-211.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-211</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-030.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-278.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-278</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-055.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-304.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-304</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-056.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-276.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-276</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-299.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-125.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-125</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-157.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-249.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-249</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-070.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-037.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-037</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-038.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-049.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-049</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-066.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-015.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-015</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-026.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-221.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-221</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-224.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-246.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-246</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-155.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-267.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-267</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-118.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-197.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-197</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-304.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-169.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-169</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-095.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-206.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-206</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-048.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-274.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-274</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-082.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-231.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-231</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-306.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-306.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-306</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-031.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-057.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-057</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-294.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-260.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-260</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-235.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-230.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-230</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-138.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-199.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-199</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-198.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-187.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-187</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-002.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-203.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-203</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-229.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-016.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-016</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-019.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-129.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-129</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-121.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-160.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-160</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-178.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-071.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-071</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-273.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-194.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-194</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-267.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-225.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-225</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-283.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-144.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-144</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-261.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-228.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-228</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-259.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-089.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-089</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-132.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-097.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-097</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-193.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-082.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-082</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-263.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-201.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-201</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-195.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-300.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-300</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-018.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-268.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-268</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-034.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-095.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-095</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-226.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-142.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-142</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-111.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-240.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-240</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-312.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-185.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-185</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-065.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-046.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-046</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-309.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-182.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-182</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-260.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-313.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-313</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-184.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-173.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-173</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-107.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-192.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-192</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-023.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-061.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-061</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-040.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-239.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-239</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-165.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-083.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-083</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-237.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-094.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-094</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-174.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-005.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-005</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-126.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-098.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-098</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-254.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-093.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-093</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-169.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-155.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-155</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-257.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-115.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-115</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-311.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-291.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-291</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-296.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-106.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-106</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-225.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-132.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-132</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-022.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-064.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-064</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-005.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-272.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-272</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-109.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-052.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-052</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-153.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-080.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-080</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-279.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-153.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-153</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-130.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-127.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-127</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-098.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-261.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-261</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-185.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-208.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-208</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-202.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-309.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-309</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-212.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-252.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-252</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-139.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-301.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-301</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-162.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-281.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-281</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-010.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-299.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-299</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-268.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-138.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-138</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-072.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-043.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-043</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-236.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-105.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-105</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-016.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-247.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-247</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-281.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-001.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-001</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-046.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-204.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-204</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-286.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-073.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-073</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-227.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-174.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-174</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-112.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-006.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-006</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-221.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-148.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-148</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-057.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-101.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-101</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-175.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-258.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-258</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-100.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-226.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-226</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-256.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-050.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-050</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-251.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-212.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-212</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-051.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-229.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-229</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-255.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-259.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-259</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-308.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-143.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-143</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-004.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-023.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-023</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-144.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-273.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-273</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-228.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-190.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-190</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-086.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-131.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-131</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-108.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-118.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-118</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-146.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-045.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-045</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-266.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-149.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-149</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-172.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-308.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-308</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-041.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-287.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-287</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-252.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-019.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-019</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-284.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-305.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-305</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-029.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-253.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-253</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-110.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-074.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-074</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-300.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-013.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-013</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-280.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-207.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-207</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-106.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-042.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-042</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-115.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-270.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-270</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-244.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-051.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-051</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-120.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-151.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-151</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-291.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-121.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-121</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-099.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-191.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-191</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-078.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-091.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-091</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-007.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-176.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-176</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-017.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-027.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-027</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-027.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-256.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-256</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-250.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-180.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-180</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-149.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-079.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-079</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-223.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-166.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-166</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-204.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-257.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-257</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-196.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-030.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-030</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-277.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-307.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-307</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-297.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-139.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-139</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-288.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-066.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-066</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-049.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-244.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-244</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-075.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-108.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-108</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-081.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-092.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-092</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-123.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-179.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-179</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-150.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-254.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-254</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-171.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-145.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-145</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-168.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-279.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-279</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-222.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-294.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-294</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-305.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-186.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-186</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-246.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-236.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-236</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-201.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-178.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-178</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-186.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-054.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-054</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-170.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-156.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-156</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-302.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-165.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-165</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-025.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-088.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-088</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-209.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-024.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-024</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-119.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-025.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-025</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-213.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-243.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-243</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-083.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-084.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-084</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-113.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-100.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-100</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-060.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-241.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-241</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-214.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-159.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-159</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-147.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-038.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-038</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-233.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-009.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-009</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-068.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-113.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-113</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-247.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-216.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-216</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-137.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-263.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-263</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-182.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-295.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-295</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-232.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-114.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-114</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-043.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-215.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-215</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-035.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-154.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-154</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-128.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-170.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-170</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-116.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-200.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-200</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-009.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-167.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-167</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-097.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-218.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-218</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-218.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-171.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-171</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-275.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-124.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-124</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-293.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-248.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-248</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-206.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-189.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-189</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-054.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-242.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-242</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-050.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-034.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-034</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-059.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-130.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-130</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-141.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-209.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-209</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-272.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-004.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-004</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-200.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-285.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-285</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-208.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-288.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-288</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-047.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-275.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-275</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-125.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-014.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-014</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-270.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-081.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-081</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-258.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-056.musicxml</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu-056</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./musicXMLFiles/AltDeu10/AltDeu-310.musicxml</literal>
+        <literal>file:///Users/ed4565/Development/sparql-anything/showcase-musicxml/./musicXMLFiles/AltDeu10/AltDeu-303.musicxml</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu-303</literal>
       </binding>
     </result>
   </results>
