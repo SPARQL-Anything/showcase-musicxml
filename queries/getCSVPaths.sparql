@@ -1,6 +1,6 @@
 PREFIX fx: <http://sparql.xyz/facade-x/ns/>
 # Query to extract the CSV files from the local directory.
-SELECT ?filePath
+SELECT ?filePath ?fileName
 WHERE 
 {
   SERVICE<x-sparql-anything:>{
@@ -9,6 +9,7 @@ WHERE
 	[] a fx:root;
        	   ?mProp ?filePath.
     
-    FILTER(CONTAINS(?filePath, "csv"))
+    FILTER(CONTAINS(?filePath, ".csv"))
+    BIND (replace(replace(?filePath, ".*?\\/",""), ".csv","") as ?fileName) .
   }
 }

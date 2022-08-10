@@ -11,6 +11,6 @@ WHERE
        	   ?mProp ?filePath.
     
     FILTER(CONTAINS(?filePath, ".musicxml")) .
-	BIND ( replace( replace ( ?filePath, ".*?\\/","" ), ".musicxml","") as ?fileName) .
+    BIND ( replace( replace ( ?filePath, ".*?\\/","" ), ".musicxml","") as ?fileName) .
   }
 }

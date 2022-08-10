@@ -2,1571 +2,2511 @@
 <sparql xmlns="http://www.w3.org/2005/sparql-results#">
   <head>
     <variable name="filePath"/>
+    <variable name="fileName"/>
   </head>
   <results>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-262.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-217.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-217</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-303.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-224.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-224</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-111.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-055.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-055</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-225.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-071.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-071</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-18.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-313.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-313</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-313.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-188.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-188</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-297.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-180.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-180</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-126.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-027.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-027</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-117.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-305.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-305</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-51.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-178.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-178</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-217.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-234.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-234</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-46.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-227.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-227</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-245.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-061.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-061</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-144.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-077.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-077</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-246.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-273.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-273</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-63.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-102.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-102</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-53.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-042.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-042</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-42.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-119.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-119</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-25.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-014.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-014</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-57.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-074.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-074</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-58.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-218.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-218</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-104.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-292.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-292</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-36.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-200.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-200</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-70.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-304.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-304</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-121.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-187.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-187</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-167.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-131.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-131</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-33.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-177.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-177</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-280.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-192.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-192</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-151.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-109.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-109</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-29.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-020.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-020</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-254.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-001.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-001</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-268.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-087.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-087</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-15.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-091.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-091</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-140.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-280.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-280</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-43.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-225.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-225</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-52.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-079.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-079</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-235.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-176.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-176</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-195.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-163.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-163</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-240.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-250.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-250</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-122.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-247.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-247</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-250.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-267.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-267</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-133.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-166.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-166</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-138.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-026.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-026</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-94.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-099.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-099</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-13.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-081.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-081</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-98.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-243.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-243</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-115.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-302.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-302</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-223.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-248.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-248</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-251.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-298.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-298</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-270.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-004.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-004</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-114.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-257.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-257</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-143.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-019.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-019</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-80.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-125.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-125</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-91.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-157.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-157</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-293.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-096.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-096</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-244.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-127.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-127</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-205.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-029.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-029</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-16.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-281.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-281</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-181.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-233.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-233</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-102.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-312.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-312</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-93.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-108.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-108</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-81.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-041.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-041</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-118.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-181.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-181</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-149.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-232.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-232</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-255.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-154.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-154</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-131.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-265.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-265</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-193.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-238.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-238</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-67.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-104.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-104</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-89.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-190.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-190</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-283.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-141.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-141</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-206.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-089.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-089</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-65.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-293.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-293</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-285.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-078.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-078</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-68.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-065.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-065</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-284.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-230.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-230</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-4.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-295.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-295</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-26.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-272.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-272</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-150.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-112.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-112</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-158.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-296.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-296</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-237.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-198.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-198</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-24.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-063.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-063</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-125.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-139.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-139</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-218.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-229.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-229</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-22.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-173.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-173</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-153.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-134.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-134</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-190.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-206.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-206</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-152.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-032.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-032</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-209.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-264.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-264</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-286.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-237.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-237</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-130.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-271.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-271</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-49.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-209.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-209</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-249.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-167.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-167</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-299.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-270.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-270</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-78.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-075.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-075</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-269.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-150.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-150</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-241.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-024.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-024</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-243.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-205.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-205</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-56.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-193.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-193</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-228.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-086.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-086</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-264.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-241.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-241</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-20.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-236.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-236</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-110.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-186.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-186</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-83.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-256.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-256</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-187.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-245.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-245</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-127.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-151.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-151</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-14.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-263.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-263</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-300.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-208.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-208</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-96.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-147.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-147</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-271.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-097.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-097</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-166.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-153.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-153</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-75.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-286.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-286</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-247.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-146.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-146</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-8.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-223.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-223</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-35.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-009.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-009</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-5.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-255.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-255</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-259.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-172.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-172</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-38.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-158.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-158</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-310.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-130.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-130</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-82.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-058.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-058</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-312.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-301.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-301</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-37.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-092.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-092</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-141.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-031.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-031</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-230.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-121.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-121</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-231.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-266.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-266</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-128.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-028.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-028</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-267.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-235.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-235</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-165.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-143.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-143</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-176.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-064.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-064</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-302.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-093.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-093</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-261.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-046.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-046</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-222.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-156.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-156</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-289.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-052.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-052</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-238.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-226.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-226</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-248.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-252.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-252</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-201.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-124.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-124</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-6.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-165.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-165</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-288.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-311.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-311</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-236.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-219.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-219</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-183.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-088.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-088</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-162.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-184.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-184</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-301.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-249.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-249</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-287.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-149.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-149</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-66.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-133.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-133</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-12.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-129.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-129</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-179.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-240.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-240</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-266.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-228.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-228</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-279.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-183.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-183</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-85.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-155.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-155</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-204.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-201.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-201</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-79.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-056.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-056</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-163.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-152.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-152</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-263.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-010.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-010</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-173.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-231.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-231</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-185.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-279.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-279</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-298.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-136.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-136</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-309.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-018.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-018</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-258.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-160.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-160</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-124.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-262.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-262</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-214.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-084.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-084</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-88.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-025.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-025</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-219.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-290.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-290</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-156.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-008.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-008</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-188.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-276.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-276</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-265.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-221.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-221</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-291.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-043.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-043</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-194.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-269.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-269</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-216.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-253.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-253</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-294.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-171.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-171</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-135.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-309.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-309</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-87.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-069.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-069</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-86.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-048.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-048</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-281.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-070.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-070</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-278.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-105.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-105</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-120.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-110.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-110</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-292.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-300.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-300</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-154.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-145.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-145</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-90.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-115.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-115</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-44.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-137.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-137</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-109.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-117.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-117</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-212.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-002.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-002</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-139.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-111.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-111</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-274.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-283.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-283</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-189.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-220.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-220</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-99.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-308.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-308</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-146.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-162.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-162</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-260.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-258.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-258</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-10.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-082.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-082</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-308.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-196.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-196</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-142.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-116.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-116</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-172.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-060.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-060</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-84.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-278.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-278</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-145.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-138.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-138</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-252.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-126.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-126</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-272.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-261.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-261</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-27.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-142.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-142</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-305.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-039.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-039</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-39.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-211.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-211</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-71.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-120.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-120</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-101.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-222.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-222</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-306.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-299.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-299</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-232.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-202.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-202</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-170.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-203.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-203</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-157.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-015.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-015</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-147.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-036.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-036</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-107.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-035.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-035</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-134.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-294.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-294</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-161.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-030.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-030</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-28.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-100.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-100</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-211.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-118.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-118</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-61.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-179.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-179</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-208.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-195.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-195</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-30.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-140.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-140</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-221.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-259.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-259</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-196.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-054.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-054</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-64.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-123.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-123</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-168.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-050.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-050</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-198.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-038.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-038</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-129.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-216.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-216</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-7.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-242.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-242</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-171.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-067.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-067</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-186.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-040.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-040</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-9.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-144.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-144</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-137.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-103.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-103</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-48.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-094.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-094</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-277.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-289.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-289</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-132.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-274.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-274</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-2.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-135.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-135</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-307.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-213.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-213</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-178.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-159.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-159</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-160.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-189.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-189</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-164.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-197.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-197</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-103.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-098.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-098</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-136.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-275.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-275</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-257.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-080.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-080</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-40.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-057.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-057</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-200.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-287.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-287</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-290.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-021.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-021</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-106.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-090.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-090</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-73.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-012.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-012</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-239.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-095.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-095</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-54.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-199.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-199</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-77.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-033.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-033</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-169.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-072.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-072</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-275.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-204.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-204</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-59.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-003.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-003</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-220.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-182.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-182</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-62.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-194.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-194</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-72.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-175.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-175</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-224.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-246.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-246</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-31.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-307.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-307</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-282.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-260.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-260</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-123.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-006.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-006</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-184.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-282.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-282</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-182.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-114.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-114</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-95.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-215.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-215</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-207.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-169.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-169</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-34.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-268.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-268</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-192.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-106.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-106</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-100.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-122.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-122</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-97.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-066.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-066</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-253.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-210.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-210</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-1.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-076.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-076</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-233.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-023.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-023</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-213.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-073.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-073</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-119.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-068.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-068</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-55.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-011.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-011</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-256.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-212.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-212</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-202.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-107.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-107</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-60.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-207.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-207</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-273.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-277.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-277</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-105.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-128.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-128</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-210.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-170.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-170</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-199.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-013.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-013</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-47.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-214.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-214</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-180.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-284.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-284</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-191.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-051.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-051</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-41.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-161.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-161</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-197.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-022.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-022</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-113.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-168.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-168</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-45.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-174.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-174</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-229.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-007.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-007</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-92.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-062.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-062</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-215.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-148.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-148</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-69.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-239.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-239</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-203.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-132.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-132</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-234.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-005.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-005</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-17.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-164.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-164</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-148.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-291.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-291</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-155.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-034.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-034</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-311.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-037.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-037</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-50.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-053.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-053</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-226.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-017.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-017</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-304.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-059.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-059</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-23.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-306.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-306</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-112.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-045.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-045</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-227.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-244.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-244</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-295.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-085.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-085</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-242.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-049.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-049</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-108.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-310.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-310</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-296.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-185.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-185</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-177.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-101.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-101</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-32.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-191.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-191</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-21.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-285.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-285</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-276.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-288.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-288</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-11.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-254.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-254</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-174.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-303.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-303</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-3.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-297.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-297</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-175.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-251.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-251</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-74.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-083.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-083</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-76.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-113.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-113</literal>
       </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-159.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-016.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-016</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-19.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-044.csv</literal>
       </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-044</literal>
+      </binding>
     </result>
     <result>
       <binding name="filePath">
-        <literal>file:///C:/Users/Marco/Desktop/showcase-musicology/./EssenFolk/AltDeu10-116.csv</literal>
+        <literal>file:///C:/Users/Marco/Desktop/showcase-musicxml/./EssenFolk/AltDeu10-047.csv</literal>
+      </binding>
+      <binding name="fileName">
+        <literal>AltDeu10-047</literal>
       </binding>
     </result>
   </results>
