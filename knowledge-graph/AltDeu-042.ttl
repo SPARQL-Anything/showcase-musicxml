@@ -1,0 +1,156 @@
+@prefix alt: <http://polifonia.kmi.open.ac.uk/altdeu/> .
+@prefix fx:  <http://sparql.xyz/facade-x/ns/> .
+@prefix mno: <http://cedric.cnam.fr/isid/ontologies/MusicNote.owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix xyz: <http://sparql.xyz/facade-x/data/> .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/14>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/5> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "B[-1]4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/3>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/2> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/9>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/3> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "G4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/5>
+        rdf:type      mno:Measure ;
+        mno:hasCount  5 ;
+        mno:hasPart   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6> .
+
+alt:altdeu-042  rdf:type  mno:Score ;
+        mno:contains  <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6> .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6>
+        rdf:type  mno:Part .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/13>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/4> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/2>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/2> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/8>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/3> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "G4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/4>
+        rdf:type      mno:Measure ;
+        mno:hasCount  4 ;
+        mno:hasPart   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6> .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/12>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/4> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/1>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/1> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "F4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/7>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/3> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/3>
+        rdf:type      mno:Measure ;
+        mno:hasCount  3 ;
+        mno:hasPart   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6> .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/17>
+        rdf:type         mno:RestEvent ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/5> ;
+        mno:hasPitch     "Rest" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/11>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/4> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/6>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/3> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "B[-1]4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/2>
+        rdf:type      mno:Measure ;
+        mno:hasCount  2 ;
+        mno:hasPart   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6> .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/16>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/5> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "F4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/10>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/4> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/5>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/2> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/1>
+        rdf:type      mno:Measure ;
+        mno:hasCount  1 ;
+        mno:hasPart   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/part/6> ;
+        mno:hasUnit   "6/2" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/15>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "20160" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/5> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "G4" .
+
+<http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/event/4>
+        rdf:type         mno:Note ;
+        mno:hasDuration  "40320" ;
+        mno:hasMeasure   <http://polifonia.kmi.open.ac.uk/altdeu/altdeu-042/measure/2> ;
+        mno:hasOctave    "4" ;
+        mno:hasPitch     "A4" .
