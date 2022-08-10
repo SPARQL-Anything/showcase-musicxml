@@ -21,7 +21,7 @@ java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/getCSVPaths.sparql
 ```
 
 ## Generate Knowledge Graph (3-Grams)
-This generates a Knowledge graph, for each loaded file, in Turtle syntax, of the 3-grams that can be constructed for each given melody.
+This generates a knowledge graph, for each loaded file, in Turtle syntax, of the 3-grams that can be constructed for each given melody.
 ```
 java -jar sparql-anything-0.8.0-SNAPSHOT.jar -q queries/trigKGBuildParam.sparql -i csvPaths.xml -f TTL -o EssenFolk/EssenFolkTrigramKG/trigKG-?fileName.ttl
 ```
